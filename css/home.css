@@ -1,0 +1,22 @@
+h1{
+  font-size: 36px;
+}
+.objective-part{
+  background-color: rgb(194, 186, 186);
+}
+.content{
+  background-color: gray;
+}
+#uniquesDivision{
+  border: 5px solid black;
+}
+body{
+  background-color: rgb(221, 146, 146);
+}
+a:hover{
+  color: rgb(7, 97, 128); 
+  text-decoration: underline; 
+}
+a:active{
+  color: red;
+}

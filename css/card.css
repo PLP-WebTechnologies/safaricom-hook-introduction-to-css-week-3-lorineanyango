@@ -1,0 +1,33 @@
+.container{
+  border: 10px solid rgb(73, 73, 119);
+  width: 500px;
+  height: 700px;
+  background-color: lightblue;
+  margin: 50px;
+
+}
+.head1{
+  font-weight: 900;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.head-container{
+  height: 30px;
+  width: 100%;
+}
+.content{
+  padding-top: 20px;
+  padding-left: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+span{
+  font-weight: bold;
+}
+section{
+  text-align: center;
+  padding-top: 250px;
+}
